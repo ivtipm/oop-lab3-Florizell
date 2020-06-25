@@ -1,0 +1,42 @@
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe.config
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.pdb
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csprojAssemblyReference.cache
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Form1.resources
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.logForm.resources
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Properties.Resources.resources
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.GenerateResource.cache
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CoreCompileInputs.cache
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CopyComplete
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.exe
+C:\Users\dima_\source\repos\Сhat_bot_lab3\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.pdb
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe.config
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.pdb
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Form1.resources
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.logForm.resources
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Properties.Resources.resources
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CopyComplete
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.exe
+C:\Users\asus\Downloads\oop-lab3-dimapichuev2000-master\oop-lab3-dimapichuev2000-master\chat\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.pdb
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe.config
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.exe
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\bin\Debug\Сhat_bot_lab3.pdb
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Form1.resources
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.logForm.resources
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.Properties.Resources.resources
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.csproj.CopyComplete
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.exe
+C:\Users\asus\Downloads\oop-lab3-\chat-Флоря Александр\Сhat_bot_lab3\obj\Debug\Сhat_bot_lab3.pdb
